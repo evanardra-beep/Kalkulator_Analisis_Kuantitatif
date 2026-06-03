@@ -311,6 +311,7 @@ st.markdown("""
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 st.info("💡 Navigasi ke setiap modul melalui **sidebar kiri** (klik tanda > jika tersembunyi), atau tambahkan file halaman di folder `pages/`.")
+
 # =====================================================
 # PENGENCERAN
 # =====================================================
